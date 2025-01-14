@@ -1,0 +1,12 @@
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\bin\Debug\net8.0\Refactoring.deps.json
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\bin\Debug\net8.0\Refactoring.dll
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\bin\Debug\net8.0\Refactoring.pdb
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.AssemblyInfoInputs.cache
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.AssemblyInfo.cs
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.sourcelink.json
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.dll
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\refint\Refactoring.dll
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\Refactoring.pdb
+C:\Users\Inholland\Desktop\SunwebRefactoring\RefactoringProblem\Refactoring\obj\Debug\net8.0\ref\Refactoring.dll

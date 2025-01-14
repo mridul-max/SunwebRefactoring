@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0746F-5691-4FDD-909D-A39AE87DBA3D}|Report\\Report.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C0746F-5691-4FDD-909D-A39AE87DBA3D}|Report\\Report.csproj|solutionrelative:report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD7B202-1145-4C31-B810-F846CD4B0803}|Refactoring.UnitTests\\Refactoring.UnitTests.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring.unittests\\reportprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD7B202-1145-4C31-B810-F846CD4B0803}|Refactoring.UnitTests\\Refactoring.UnitTests.csproj|solutionrelative:refactoring.unittests\\reportprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring\\repositories\\textreportformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|solutionrelative:refactoring\\repositories\\textreportformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring\\models\\camping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|solutionrelative:refactoring\\models\\camping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|solutionrelative:refactoring\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|solutionrelative:refactoring\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|c:\\users\\inholland\\desktop\\refactoringproblem_2\\refactoringproblem\\refactoring\\models\\accommodationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEEF9FA-1369-4A44-A5A4-5DAE2460FE9D}|Refactoring\\Refactoring.csproj|solutionrelative:refactoring\\models\\accommodationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A05686-660E-4815-B996-C08E423F5FD3}|Solution Items{04A05686-660E-4815-B996-C08E423F5FD3}|C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Readme.me||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04A05686-660E-4815-B996-C08E423F5FD3}|Solution Items{04A05686-660E-4815-B996-C08E423F5FD3}|solutionrelative:Readme.me||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportPrinterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring.UnitTests\\ReportPrinterTests.cs",
+              "RelativeDocumentMoniker": "Refactoring.UnitTests\\ReportPrinterTests.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring.UnitTests\\ReportPrinterTests.cs",
+              "RelativeToolTip": "Refactoring.UnitTests\\ReportPrinterTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:16:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Readme.me",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Readme.me",
+              "RelativeDocumentMoniker": "Readme.me",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Readme.me",
+              "RelativeToolTip": "Readme.me",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-11T15:41:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Refactoring\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Hotel.cs",
+              "RelativeToolTip": "Refactoring\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:32:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextReportFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Repositories\\TextReportFormat.cs",
+              "RelativeDocumentMoniker": "Refactoring\\Repositories\\TextReportFormat.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Repositories\\TextReportFormat.cs",
+              "RelativeToolTip": "Refactoring\\Repositories\\TextReportFormat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:32:11.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Apartment.cs",
+              "RelativeDocumentMoniker": "Refactoring\\Models\\Apartment.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Apartment.cs",
+              "RelativeToolTip": "Refactoring\\Models\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:33:27.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccommodationBase.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\AccommodationBase.cs",
+              "RelativeDocumentMoniker": "Refactoring\\Models\\AccommodationBase.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\AccommodationBase.cs",
+              "RelativeToolTip": "Refactoring\\Models\\AccommodationBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:33:47.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camping.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Camping.cs",
+              "RelativeDocumentMoniker": "Refactoring\\Models\\Camping.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Refactoring\\Models\\Camping.cs",
+              "RelativeToolTip": "Refactoring\\Models\\Camping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:04:32.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Report\\Program.cs",
+              "RelativeDocumentMoniker": "Report\\Program.cs",
+              "ToolTip": "C:\\Users\\Inholland\\Desktop\\RefactoringProblem_2\\RefactoringProblem\\Report\\Program.cs",
+              "RelativeToolTip": "Report\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:30:18.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

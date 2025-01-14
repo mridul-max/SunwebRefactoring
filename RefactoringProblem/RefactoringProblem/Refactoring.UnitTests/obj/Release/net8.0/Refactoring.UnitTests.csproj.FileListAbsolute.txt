@@ -1,0 +1,6 @@
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\bin\Release\net8.0\CoverletSourceRootsMapping_Refactoring.UnitTests
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\obj\Release\net8.0\Refactoring.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\obj\Release\net8.0\Refactoring.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\obj\Release\net8.0\Refactoring.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\obj\Release\net8.0\Refactoring.UnitTests.AssemblyInfo.cs
+C:\Users\Inholland\Desktop\RefactoringProblem_2\RefactoringProblem\Refactoring.UnitTests\obj\Release\net8.0\Refactoring.UnitTests.csproj.CoreCompileInputs.cache
